@@ -22,8 +22,9 @@ In this task I was required to refactor existing code to meet a certain set of s
 * The icon and image elements all have accessible alt attributes.
 
 **Before**
-![Accessible alt attribute](./Accessible-Alt_Attribute.jpeg?raw=true)
-
+![Accessible alt attribute](./Accessible-Alt_Attribute_Before.jpeg?raw=true)
+**After**
+![Accessible alt attribute](./Accessible_Alt_Attribute_After.jpeg?raw=true)
 * The heading attributes fall in subsequential order
 
 
