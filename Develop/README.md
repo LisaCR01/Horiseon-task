@@ -6,7 +6,7 @@ In this task I was required to refactor existing code to meet a certain set of s
 
 * The use of semantic HTML elements.
 
-![Use of HTML semantic elements](./Develop/HTML_semantic_elements.jpeg)
+![Use of HTML semantic elements](./Develop/HTML_semantic_elements.jpeg???>raw=true)
 
 * Logically structured HTML elements that are independent of styling and positioning.
 
