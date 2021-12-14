@@ -7,7 +7,7 @@ In this task I was required to refactor existing code to meet a certain set of s
 * The use of semantic HTML elements.
 
 **Before**
-![Before use of HTML semantic elements](HTML_semantic_elements_before.jpeg?raw=true )
+![Before use of HTML semantic elements](./HTML_semantic_element_before.jpeg?raw=true )
 
 **After**
 ![Use of HTML semantic elements] (./HTML_semantic_element_after.png?raw=true )
