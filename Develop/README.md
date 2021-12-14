@@ -4,7 +4,7 @@ In this task I was required to refactor existing code to meet a certain set of s
 
 ## Criteria that I met to achieve this
 
-* The use of semantic HTML elements.
+### The use of semantic HTML elements.
 
 **Before**
 
@@ -15,7 +15,7 @@ In this task I was required to refactor existing code to meet a certain set of s
 ![Use of HTML semantic elements](./HTML_semantic_element_after.jpeg?raw=true )
 
 
-* Logically structured HTML elements that are independent of styling and positioning.
+### Logically structured HTML elements that are independent of styling and positioning.
 
 **Before**
 
@@ -23,11 +23,10 @@ In this task I was required to refactor existing code to meet a certain set of s
 
 **After**
 
-
 ![Use of structured HTML elements](./Logically_Structured_HTML_Elements_After.jpeg)
 
-* The icon and image elements all have accessible alt attributes.
 
+### The icon and image elements all have accessible alt attributes.
 
 **Before**
 
@@ -38,8 +37,7 @@ In this task I was required to refactor existing code to meet a certain set of s
 ![Use of accessible alt attribute](./Accessible_Alt_Attribute_After.jpeg?raw=true)
 
 
-
-* The heading attributes fall in subsequential order
+### The heading attributes fall in subsequential order
 
 **Before**
 
@@ -50,7 +48,7 @@ In this task I was required to refactor existing code to meet a certain set of s
 ![Use of subsequential order of headers](./Subsequential_Headers_After.jpeg?raw=true)
 
 
-* The title element is concise and descriptive
+### The title element is concise and descriptive
 
 **Before**
 
