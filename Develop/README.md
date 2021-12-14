@@ -12,15 +12,17 @@ In this task I was required to refactor existing code to meet a certain set of s
 **After**
 ![Use of HTML semantic elements](./HTML_semantic_element_after.jpeg?raw=true )
 
-
-
 * Logically structured HTML elements that are independent of styling and positioning.
+
+
+**Before**
 
 
 
 * The icon and image elements all have accessible alt attributes.
 
-
+**Before**
+![Accessible alt attribute](./Accessible-Alt_Attribute.jpeg?raw=true)
 
 * The heading attributes fall in subsequential order
 
@@ -30,4 +32,4 @@ In this task I was required to refactor existing code to meet a certain set of s
 
 ## Deployed Application
 
-Link to deployed application : http://127.0.0.1:5500/Develop/index.html
+Link to deployed application : https://github.com/LisaCR01/Horiseon-task/tree/master/Develop
