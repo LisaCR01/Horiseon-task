@@ -37,15 +37,15 @@ In this task I was required to refactor existing code to meet a certain set of s
 ![Use of accessible alt attribute](./Accessible_Alt_Attribute_After.jpeg?raw=true)
 
 
-### The heading attributes fall in subsequential order
+### The heading attributes fall in sequential order
 
 **Before**
 
-![Before use of subsequential order of headers](./Subsequential_Headers_Before.jpeg?raw=true)
+![Before use of sequential order of headers](./Sequential_Headers_Before.jpeg?raw=true)
 
 **After**
 
-![Use of subsequential order of headers](./Subsequential_Headers_After.jpeg?raw=true)
+![Use of sequential order of headers](./Sequential_Headers_After.jpeg?raw=true)
 
 
 ### The title element is concise and descriptive
