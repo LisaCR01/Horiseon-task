@@ -10,7 +10,7 @@ In this task I was required to refactor existing code to meet a certain set of s
 ![Before use of HTML semantic elements](./HTML_semantic_element_before.jpeg?raw=true )
 
 **After**
-![Use of HTML semantic elements] (./HTML_semantic_element_after.png?raw=true )
+![Use of HTML semantic elements] (./HTML_semantic_element_after.png?raw=true)
 
 * Logically structured HTML elements that are independent of styling and positioning.
 
