@@ -61,5 +61,5 @@ In this task I was required to refactor existing code to meet a certain set of s
 
 ## Deployed Application
 
-[a link] (file:///Users/lisagunn/coding_bootcamp/week1/Horiseon-task/Develop/index.html)
+[a link] (http://127.0.0.1:5500/Develop/index.html)
 
